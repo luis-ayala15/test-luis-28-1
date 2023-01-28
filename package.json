@@ -1,7 +1,7 @@
 {
-  "name": "template",
+  "name": "test-luis-28-1",
   "version": "1.0.0",
-  "description": "",
+  "description": "test-luis-28-1",
   "main": "index.js",
   "scripts": {
     "lint:fix": "eslint --cache --fix",
@@ -41,5 +41,12 @@
     "*.{js,css,md,yml}": [
       "npm run prettier:fix"
     ]
-  }
+  },
+  "repository": {
+    "url": "git+git@github.com:luis-ayala15/test-luis-28-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luis-ayala15/test-luis-28-1/issues"
+  },
+  "homepage": "https://github.com/luis-ayala15/test-luis-28-1#readme"
 }
